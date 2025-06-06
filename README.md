@@ -16,14 +16,14 @@ Bu proje, **Turing makinesi kuramını gerçek hayatla ilişkilendirmek** amacı
    - **Şifre hatalı** mesajı verilir.
 
 # KURULUM VE ÇALIŞTIRMA
-1.Java'nın kurulu olduğundan emin olun.
-2.Proje dosyalarını klonlayın veya indirin.
-3.Komut satırından proje klasörüne gidin.
-4.Java dosyalarını derleyin.
+1. Java'nın kurulu olduğundan emin olun.
+2. Proje dosyalarını klonlayın veya indirin.
+3. Komut satırından proje klasörüne gidin.
+4. Java dosyalarını derleyin.
 ```
 javac main.java turing.java
 ```
-5.Programı çalıştırın.
+5. Programı çalıştırın.
 ```
 java main
 ```
