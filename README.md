@@ -10,20 +10,15 @@ Bu proje, **Turing makinesi kuramını gerçek hayatla ilişkilendirmek** amacı
    - Kullanıcı PIN’inden bir karakteri alır (`X` ile işaretler),
    - Sabit PIN kısmına geçer, karşılık gelen karakteri bulur (`Y` ile işaretler),
    - Geri dönerek sıradaki karaktere geçer.
-5. Her adımda:
-   - Makinenin mevcut durumu (`q0`, `q1`, ...)  
-   - Bantın güncel hali  
-   - Head (ok) pozisyonu  
-   konsola yazdırılır.
-6. Tüm karakterler başarıyla eşleşirse:
-   - **Şifre doğru (KABUL EDİLDİ)** mesajı verilir.
-7. Herhangi bir eşleşme hatasında:
-   - **Şifre hatalı (REDDEDİLDİ)** mesajı verilir.
+5. Tüm karakterler başarıyla eşleşirse:
+   - **Şifre doğru** mesajı verilir.
+6. Herhangi bir eşleşme hatasında:
+   - **Şifre hatalı** mesajı verilir.
 
 # KURULUM VE ÇALIŞTIRMA
 1.Java'nın kurulu olduğundan emin olun.
 2.Proje dosyalarını klonlayın veya indirin.
-3.Komut satırından proje klasörüne gidim.
+3.Komut satırından proje klasörüne gidin.
 4.Java dosyalarını derleyin.
 ```
 javac main.java turing.java
