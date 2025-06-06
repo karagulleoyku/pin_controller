@@ -27,12 +27,12 @@ javac main.java turing.java
 ```
 java main
 ```
-# ORNEK GİRİŞ
+# ÖRNEK GİRİŞ
 ```
 Lütfen 4 haneli PIN kodunuzu girin: 1234
 ```
 
-#ÖRNEK ÇIKTILAR
+# ÖRNEK ÇIKTILAR
 ```
 Başlangıç Bandı: 1234#1234#
 [q0] (1) 2  3  4  #  1  2  3  4  # 
